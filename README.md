@@ -64,7 +64,7 @@ body{
 <h1>ODTECH</h1>
 
 <div class="company">
-교정업체명 : 씨디플렉스_파주
+교정업체명 : OOO
 </div>
 
 <div class="date">
